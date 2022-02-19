@@ -1,0 +1,4 @@
+VBGROUP 5.0
+Project=ActiveGanttVB.vbp
+StartupProject=DV\AGVBDemo.vbp
+Project=..\..\XTTreeview\VB\XTTreeviewVB.vbp
